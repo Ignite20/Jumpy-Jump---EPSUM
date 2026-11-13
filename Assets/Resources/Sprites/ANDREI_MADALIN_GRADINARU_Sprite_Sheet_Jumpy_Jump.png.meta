@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: fb98126980c71e44496c730b28625581
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 478
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1516bf7f053de924b8088a8966844afd
+      internalID: 294721948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 545
+        width: 86
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de384ae639c814991e091d67f77c45
+      internalID: -519436343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 350
+        width: 410
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9571c539659e6534fb77fdbdcb84359a
+      internalID: 357360596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3814eb8318bf4fa2c436b78a63234
+      internalID: 5256007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 228
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f548b1fb7ece4449652faee20d3e38
+      internalID: -804821388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 227
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc42fed9333964da5c43f9ada36c17
+      internalID: -1218260203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 227
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1a742ba984ce44ae0a6f5cf3a1fd4
+      internalID: -1155154638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 98
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fc828d2d79d544bd1e39aad9773b6
+      internalID: -607597287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 95
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1febf6706949bb4294f671df8ceeead
+      internalID: 1513426190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 95
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30b4b6c2514ab4ebd2f98e9e162aa2
+      internalID: -1109133783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 229
+        width: 186
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc17f1c0e77434aaf6b4ac2749e6c0
+      internalID: -762521289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0d68a8fc2a4c9bb47a94625b16c238f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_0: 294721948
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_1: -519436343
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_10: -762521289
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_2: 357360596
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_3: 5256007
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_4: -804821388
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_5: -1218260203
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_6: -1155154638
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_7: -607597287
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_8: 1513426190
+      ANDREI_MADALIN_GRADINARU_Sprite_Sheet_Jumpy_Jump_9: -1109133783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
