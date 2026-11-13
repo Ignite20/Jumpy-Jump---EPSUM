@@ -7,6 +7,7 @@ public class ColorController : MonoBehaviour {
 
 
 	public void ToggleColors() {
+		Debug.Log("Color Changed!");
 		colorImage.color = Random.ColorHSV();
 	}
 
